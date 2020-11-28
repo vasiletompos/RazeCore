@@ -23,7 +23,7 @@ let package = Package(
             name: "RazeCore",
             dependencies: []),
         .testTarget(
-            name: "RazeCoreTests",
+            name: "RazeColorTests",
             dependencies: ["RazeCore"]),
     ]
 )
