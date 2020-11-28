@@ -130,9 +130,9 @@
 		OBJ_8 /* RazeCore */ = {
 			isa = PBXGroup;
 			children = (
+				F04AD6822572DBD60020CC55 /* RazeCore.swift */,
 				OBJ_9 /* Color.swift */,
 				F04AD68E2572DD460020CC55 /* Networking.swift */,
-				F04AD6822572DBD60020CC55 /* RazeCore.swift */,
 			);
 			name = RazeCore;
 			path = Sources/RazeCore;
